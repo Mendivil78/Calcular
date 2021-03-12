@@ -1,0 +1,7 @@
+C:\Users\aleme\source\repos\ENT0301.Pruebasunitarias\ENT0301.Pruebasunitarias\bin\Debug\ENT0301.Pruebasunitarias.exe.config
+C:\Users\aleme\source\repos\ENT0301.Pruebasunitarias\ENT0301.Pruebasunitarias\bin\Debug\ENT0301.Pruebasunitarias.exe
+C:\Users\aleme\source\repos\ENT0301.Pruebasunitarias\ENT0301.Pruebasunitarias\bin\Debug\ENT0301.Pruebasunitarias.pdb
+C:\Users\aleme\source\repos\ENT0301.Pruebasunitarias\ENT0301.Pruebasunitarias\obj\Debug\ENT0301.Pruebasunitarias.csprojAssemblyReference.cache
+C:\Users\aleme\source\repos\ENT0301.Pruebasunitarias\ENT0301.Pruebasunitarias\obj\Debug\ENT0301.Pruebasunitarias.csproj.CoreCompileInputs.cache
+C:\Users\aleme\source\repos\ENT0301.Pruebasunitarias\ENT0301.Pruebasunitarias\obj\Debug\ENT0301.Pruebasunitarias.exe
+C:\Users\aleme\source\repos\ENT0301.Pruebasunitarias\ENT0301.Pruebasunitarias\obj\Debug\ENT0301.Pruebasunitarias.pdb

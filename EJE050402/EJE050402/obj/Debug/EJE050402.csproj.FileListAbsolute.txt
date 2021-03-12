@@ -1,0 +1,7 @@
+C:\Users\aleme\source\repos\EJE050402\EJE050402\obj\Debug\EJE050402.csprojAssemblyReference.cache
+C:\Users\aleme\source\repos\EJE050402\EJE050402\obj\Debug\EJE050402.csproj.CoreCompileInputs.cache
+C:\Users\aleme\source\repos\EJE050402\EJE050402\bin\Debug\EJE050402.exe.config
+C:\Users\aleme\source\repos\EJE050402\EJE050402\bin\Debug\EJE050402.exe
+C:\Users\aleme\source\repos\EJE050402\EJE050402\bin\Debug\EJE050402.pdb
+C:\Users\aleme\source\repos\EJE050402\EJE050402\obj\Debug\EJE050402.exe
+C:\Users\aleme\source\repos\EJE050402\EJE050402\obj\Debug\EJE050402.pdb

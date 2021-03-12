@@ -1,0 +1,7 @@
+C:\Users\aleme\source\repos\Funciones2_1\Funciones2_1\bin\Debug\Funciones2_1.exe.config
+C:\Users\aleme\source\repos\Funciones2_1\Funciones2_1\bin\Debug\Funciones2_1.exe
+C:\Users\aleme\source\repos\Funciones2_1\Funciones2_1\bin\Debug\Funciones2_1.pdb
+C:\Users\aleme\source\repos\Funciones2_1\Funciones2_1\obj\Debug\Funciones2_1.csprojAssemblyReference.cache
+C:\Users\aleme\source\repos\Funciones2_1\Funciones2_1\obj\Debug\Funciones2_1.csproj.CoreCompileInputs.cache
+C:\Users\aleme\source\repos\Funciones2_1\Funciones2_1\obj\Debug\Funciones2_1.exe
+C:\Users\aleme\source\repos\Funciones2_1\Funciones2_1\obj\Debug\Funciones2_1.pdb

@@ -1,0 +1,7 @@
+C:\Users\aleme\source\repos\EXA0501_Alejandro Mendívil\EXA0501_Alejandro Mendívil\bin\Debug\EXA0501_Alejandro Mendívil.exe.config
+C:\Users\aleme\source\repos\EXA0501_Alejandro Mendívil\EXA0501_Alejandro Mendívil\bin\Debug\EXA0501_Alejandro Mendívil.exe
+C:\Users\aleme\source\repos\EXA0501_Alejandro Mendívil\EXA0501_Alejandro Mendívil\bin\Debug\EXA0501_Alejandro Mendívil.pdb
+C:\Users\aleme\source\repos\EXA0501_Alejandro Mendívil\EXA0501_Alejandro Mendívil\obj\Debug\EXA0501_Alejandro Mendívil.csprojAssemblyReference.cache
+C:\Users\aleme\source\repos\EXA0501_Alejandro Mendívil\EXA0501_Alejandro Mendívil\obj\Debug\EXA0501_Alejandro Mendívil.csproj.CoreCompileInputs.cache
+C:\Users\aleme\source\repos\EXA0501_Alejandro Mendívil\EXA0501_Alejandro Mendívil\obj\Debug\EXA0501_Alejandro Mendívil.exe
+C:\Users\aleme\source\repos\EXA0501_Alejandro Mendívil\EXA0501_Alejandro Mendívil\obj\Debug\EXA0501_Alejandro Mendívil.pdb

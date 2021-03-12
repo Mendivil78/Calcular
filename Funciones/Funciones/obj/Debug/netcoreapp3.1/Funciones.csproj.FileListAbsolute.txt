@@ -1,0 +1,13 @@
+C:\Users\aleme\source\repos\Funciones\Funciones\bin\Debug\netcoreapp3.1\Funciones.exe
+C:\Users\aleme\source\repos\Funciones\Funciones\bin\Debug\netcoreapp3.1\Funciones.deps.json
+C:\Users\aleme\source\repos\Funciones\Funciones\bin\Debug\netcoreapp3.1\Funciones.runtimeconfig.json
+C:\Users\aleme\source\repos\Funciones\Funciones\bin\Debug\netcoreapp3.1\Funciones.runtimeconfig.dev.json
+C:\Users\aleme\source\repos\Funciones\Funciones\bin\Debug\netcoreapp3.1\Funciones.dll
+C:\Users\aleme\source\repos\Funciones\Funciones\bin\Debug\netcoreapp3.1\Funciones.pdb
+C:\Users\aleme\source\repos\Funciones\Funciones\obj\Debug\netcoreapp3.1\Funciones.csprojAssemblyReference.cache
+C:\Users\aleme\source\repos\Funciones\Funciones\obj\Debug\netcoreapp3.1\Funciones.AssemblyInfoInputs.cache
+C:\Users\aleme\source\repos\Funciones\Funciones\obj\Debug\netcoreapp3.1\Funciones.AssemblyInfo.cs
+C:\Users\aleme\source\repos\Funciones\Funciones\obj\Debug\netcoreapp3.1\Funciones.csproj.CoreCompileInputs.cache
+C:\Users\aleme\source\repos\Funciones\Funciones\obj\Debug\netcoreapp3.1\Funciones.dll
+C:\Users\aleme\source\repos\Funciones\Funciones\obj\Debug\netcoreapp3.1\Funciones.pdb
+C:\Users\aleme\source\repos\Funciones\Funciones\obj\Debug\netcoreapp3.1\Funciones.genruntimeconfig.cache

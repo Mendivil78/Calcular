@@ -1,0 +1,13 @@
+C:\Users\aleme\source\repos\REcu.Pro\REcu.Pro\obj\Debug\netcoreapp3.1\REcu.Pro.csprojAssemblyReference.cache
+C:\Users\aleme\source\repos\REcu.Pro\REcu.Pro\obj\Debug\netcoreapp3.1\REcu.Pro.AssemblyInfoInputs.cache
+C:\Users\aleme\source\repos\REcu.Pro\REcu.Pro\obj\Debug\netcoreapp3.1\REcu.Pro.AssemblyInfo.cs
+C:\Users\aleme\source\repos\REcu.Pro\REcu.Pro\obj\Debug\netcoreapp3.1\REcu.Pro.csproj.CoreCompileInputs.cache
+C:\Users\aleme\source\repos\REcu.Pro\REcu.Pro\bin\Debug\netcoreapp3.1\REcu.Pro.exe
+C:\Users\aleme\source\repos\REcu.Pro\REcu.Pro\bin\Debug\netcoreapp3.1\REcu.Pro.deps.json
+C:\Users\aleme\source\repos\REcu.Pro\REcu.Pro\bin\Debug\netcoreapp3.1\REcu.Pro.runtimeconfig.json
+C:\Users\aleme\source\repos\REcu.Pro\REcu.Pro\bin\Debug\netcoreapp3.1\REcu.Pro.runtimeconfig.dev.json
+C:\Users\aleme\source\repos\REcu.Pro\REcu.Pro\bin\Debug\netcoreapp3.1\REcu.Pro.dll
+C:\Users\aleme\source\repos\REcu.Pro\REcu.Pro\bin\Debug\netcoreapp3.1\REcu.Pro.pdb
+C:\Users\aleme\source\repos\REcu.Pro\REcu.Pro\obj\Debug\netcoreapp3.1\REcu.Pro.dll
+C:\Users\aleme\source\repos\REcu.Pro\REcu.Pro\obj\Debug\netcoreapp3.1\REcu.Pro.pdb
+C:\Users\aleme\source\repos\REcu.Pro\REcu.Pro\obj\Debug\netcoreapp3.1\REcu.Pro.genruntimeconfig.cache

@@ -1,0 +1,7 @@
+C:\Users\aleme\source\repos\EJE0502R – Repaso\EJE0502R – Repaso\obj\Debug\EJE0502R – Repaso.csprojAssemblyReference.cache
+C:\Users\aleme\source\repos\EJE0502R – Repaso\EJE0502R – Repaso\obj\Debug\EJE0502R – Repaso.csproj.CoreCompileInputs.cache
+C:\Users\aleme\source\repos\EJE0502R – Repaso\EJE0502R – Repaso\bin\Debug\EJE0502R – Repaso.exe.config
+C:\Users\aleme\source\repos\EJE0502R – Repaso\EJE0502R – Repaso\bin\Debug\EJE0502R – Repaso.exe
+C:\Users\aleme\source\repos\EJE0502R – Repaso\EJE0502R – Repaso\bin\Debug\EJE0502R – Repaso.pdb
+C:\Users\aleme\source\repos\EJE0502R – Repaso\EJE0502R – Repaso\obj\Debug\EJE0502R – Repaso.exe
+C:\Users\aleme\source\repos\EJE0502R – Repaso\EJE0502R – Repaso\obj\Debug\EJE0502R – Repaso.pdb

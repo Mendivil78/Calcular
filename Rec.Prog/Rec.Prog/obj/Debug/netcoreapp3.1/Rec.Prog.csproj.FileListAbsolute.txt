@@ -1,0 +1,13 @@
+C:\Users\aleme\source\repos\Rec.Prog\Rec.Prog\bin\Debug\netcoreapp3.1\Rec.Prog.exe
+C:\Users\aleme\source\repos\Rec.Prog\Rec.Prog\bin\Debug\netcoreapp3.1\Rec.Prog.deps.json
+C:\Users\aleme\source\repos\Rec.Prog\Rec.Prog\bin\Debug\netcoreapp3.1\Rec.Prog.runtimeconfig.json
+C:\Users\aleme\source\repos\Rec.Prog\Rec.Prog\bin\Debug\netcoreapp3.1\Rec.Prog.runtimeconfig.dev.json
+C:\Users\aleme\source\repos\Rec.Prog\Rec.Prog\bin\Debug\netcoreapp3.1\Rec.Prog.dll
+C:\Users\aleme\source\repos\Rec.Prog\Rec.Prog\bin\Debug\netcoreapp3.1\Rec.Prog.pdb
+C:\Users\aleme\source\repos\Rec.Prog\Rec.Prog\obj\Debug\netcoreapp3.1\Rec.Prog.csprojAssemblyReference.cache
+C:\Users\aleme\source\repos\Rec.Prog\Rec.Prog\obj\Debug\netcoreapp3.1\Rec.Prog.AssemblyInfoInputs.cache
+C:\Users\aleme\source\repos\Rec.Prog\Rec.Prog\obj\Debug\netcoreapp3.1\Rec.Prog.AssemblyInfo.cs
+C:\Users\aleme\source\repos\Rec.Prog\Rec.Prog\obj\Debug\netcoreapp3.1\Rec.Prog.csproj.CoreCompileInputs.cache
+C:\Users\aleme\source\repos\Rec.Prog\Rec.Prog\obj\Debug\netcoreapp3.1\Rec.Prog.dll
+C:\Users\aleme\source\repos\Rec.Prog\Rec.Prog\obj\Debug\netcoreapp3.1\Rec.Prog.pdb
+C:\Users\aleme\source\repos\Rec.Prog\Rec.Prog\obj\Debug\netcoreapp3.1\Rec.Prog.genruntimeconfig.cache

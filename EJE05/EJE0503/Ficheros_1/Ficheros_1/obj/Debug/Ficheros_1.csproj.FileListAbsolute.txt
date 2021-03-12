@@ -1,0 +1,2 @@
+C:\Users\aleme\source\repos\EJE05\EJE0503\Ficheros_1\Ficheros_1\obj\Debug\Ficheros_1.csprojAssemblyReference.cache
+C:\Users\aleme\source\repos\EJE05\EJE0503\Ficheros_1\Ficheros_1\obj\Debug\Ficheros_1.csproj.CoreCompileInputs.cache
