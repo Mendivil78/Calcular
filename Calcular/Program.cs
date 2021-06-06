@@ -10,6 +10,16 @@ namespace Calcular
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Proyecto de cálculo");
+            int operador1 = 10;
+            int operador2 = 5;
+            //int suma=CFunciones.Suma(operador1,operador2);
+            decimal resta=CFunciones.Resta(operador1, operador2);
+            //int multiplicacion=CFunciones.Multiplicador(operador1,operador2);
+            decimal division = CFunciones.Division(operador1, operador2);
+            //CFunciones.MostrarResultado(operador1,operador2,suma,resta,multiplicacion, division);
+            Console.WriteLine("Pulsa una tecla para finalizar");
+            Console.ReadKey();
         }
     }
 }
