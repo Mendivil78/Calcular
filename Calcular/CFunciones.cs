@@ -8,14 +8,15 @@ namespace Calcular
 {
     class CFunciones
     {
-        public static decimal Resta(decimal num1, decimal num2)
+        //Alejandro(Mendivil78)
+        public static int Resta(int num1, int num2)
         {
-            decimal total = num1 - num2;
+            int total = num1 - num2;
             return (total);
         }
-        public static decimal Division(decimal dividendo, decimal divisor)
+        public static int Division(int dividendo, int divisor)
         {
-            decimal total = 0;
+            int total = 0;
             if (divisor != 0)
             {
                 if (dividendo > divisor)
@@ -24,6 +25,21 @@ namespace Calcular
                 }
             }
             return (total);
+        }
+        //El otro Alejandro(Alejandro789-hub)
+        public static int Suma(int num1, int num2)
+        {
+            int resultado = num1 + num2;
+            return (resultado);
+        }
+        public static int Multiplicador(int num1, int num2)
+        {
+            int resultado = num1 + num2;
+            return (resultado);
+        }
+        public static void MostrarResultados(int num1, int num2, int suma, int resta, int multi, int division)
+        {
+
         }
     }
 }
