@@ -17,7 +17,7 @@ namespace Calcular
             int resta=CFunciones.Resta(operador1, operador2);
             int multiplicacion=CFunciones.Multiplicador(operador1,operador2);
             int division = CFunciones.Division(operador1, operador2);
-            //CFunciones.MostrarResultado(operador1,operador2,suma,resta,multiplicacion, division);
+            CFunciones.MostrarResultado(operador1,operador2,suma,resta,multiplicacion, division);
             Console.WriteLine("Pulsa una tecla para finalizar");
             Console.ReadKey();
         }
